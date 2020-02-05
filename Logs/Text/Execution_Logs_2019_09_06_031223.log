@@ -1,0 +1,8 @@
+2019-09-06 15:12:23 INFO  base:32 - =========Starting Appium Server========
+2019-09-06 15:12:24 INFO  base:35 - =========Started Appium Server sucessfully========
+2019-09-06 15:12:24 INFO  base:114 - =========Starting Android Device========
+2019-09-06 15:12:34 INFO  base:117 - =========Started sucessfully Android Device========
+2019-09-06 15:12:43 INFO  base:26 - =========started test case execution of genrel store========
+2019-09-06 15:12:48 INFO  Helper:59 - send the text mohitto the element found by Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+2019-09-06 15:12:48 INFO  base:29 - =========sucessfully fininished execution of test case genrel store========	
+2019-09-06 15:12:48 INFO  base:124 - =========Closing Emulator Android device========

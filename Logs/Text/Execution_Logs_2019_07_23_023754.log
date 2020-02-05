@@ -1,0 +1,11 @@
+2019-07-23 14:38:00 INFO  BasePage:45 - =========Starting Appium Server========
+2019-07-23 14:38:00 INFO  BasePage:76 - =========Starting Android Device========
+2019-07-23 14:38:19 INFO  BasePage:33 - ******** clicking on prefrences*********
+2019-07-23 14:38:22 INFO  BasePage:42 - clicked on the element found by Located by By.chained({By.xpath: //android.widget.TextView[@text='Preference']})
+2019-07-23 14:38:24 INFO  BasePage:42 - clicked on the element found by Located by By.chained({By.xpath: //android.widget.TextView[@text='3. Preference dependencies']})
+2019-07-23 14:38:25 INFO  BasePage:42 - clicked on the element found by Located by By.chained({By.id: android:id/checkbox})
+2019-07-23 14:38:27 INFO  BasePage:42 - clicked on the element found by Located by By.chained({By.xpath: //android.widget.TextView[@text='WiFi settings']})
+2019-07-23 14:38:27 INFO  BasePage:55 - send the text abcto the element found by Located by By.chained({By.className: android.widget.EditText})
+2019-07-23 14:38:28 INFO  BasePage:42 - clicked on the element found by Located by By.chained({By.className: android.widget.Button})
+2019-07-23 14:38:28 INFO  BasePage:121 - =========Killing session if alredy exists========
+2019-07-23 14:38:31 INFO  BasePage:131 - =========Closing Emulator Android device========

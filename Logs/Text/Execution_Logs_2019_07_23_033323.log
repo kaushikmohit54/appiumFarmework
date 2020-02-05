@@ -1,0 +1,5 @@
+2019-07-23 15:33:32 INFO  BasePage:45 - =========Starting Appium Server========
+2019-07-23 15:33:32 INFO  BasePage:76 - =========Starting Android Device========
+2019-07-23 15:33:50 INFO  BasePage:38 - =========started test case execution of genrel store========
+2019-07-23 15:33:55 INFO  BasePage:42 - clicked on the element found by Located by By.chained({By.id: android:id/text1})
+2019-07-23 15:34:46 INFO  BasePage:131 - =========Closing Emulator Android device========

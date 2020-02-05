@@ -1,0 +1,8 @@
+2019-09-06 14:48:05 INFO  base:32 - =========Starting Appium Server========
+2019-09-06 14:48:06 INFO  base:35 - =========Started Appium Server sucessfully========
+2019-09-06 14:48:06 INFO  base:114 - =========Starting Android Device========
+2019-09-06 14:48:15 INFO  base:117 - =========Started sucessfully Android Device========
+2019-09-06 14:48:27 INFO  base:114 - =========Starting Android Device========
+2019-09-06 14:48:36 INFO  base:117 - =========Started sucessfully Android Device========
+2019-09-06 14:48:45 INFO  base:34 - =========started test case execution of genrel store========
+2019-09-06 14:48:45 INFO  base:124 - =========Closing Emulator Android device========

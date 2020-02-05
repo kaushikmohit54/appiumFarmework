@@ -1,0 +1,11 @@
+2019-09-05 10:13:12 INFO  BasePage:41 - =========Starting Appium Server========
+2019-09-05 10:13:15 INFO  BasePage:44 - =========Started Appium Server sucessfully========
+2019-09-05 10:13:15 INFO  BasePage:55 - =========Starting Android Device========
+2019-09-05 10:13:50 INFO  BasePage:32 - =========started test case execution of genrel store========
+2019-09-05 10:13:54 INFO  BasePage:46 - clicked on the element found by Located by By.chained({By.id: android:id/text1})
+2019-09-05 10:14:29 INFO  BasePage:46 - clicked on the element found by Located by By.chained({By.xpath: //android.widget.TextView[@text='India']})
+2019-09-05 10:14:30 INFO  BasePage:61 - send the text mohitto the element found by Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+2019-09-05 10:14:31 INFO  BasePage:46 - clicked on the element found by Located by By.chained({By.xpath: //android.widget.Button[@resource-id='com.androidsample.generalstore:id/btnLetsShop']})
+2019-09-05 10:14:31 INFO  BasePage:36 - =========sucessfully fininished execution of test case genrel store========
+2019-09-05 10:14:31 INFO  BasePage:38 - =========Stoping the pappium server========
+2019-09-05 10:14:31 INFO  BasePage:117 - =========Closing Emulator Android device========
